@@ -4,7 +4,7 @@
 // @version      0.1
 // @description  get Humble Bundle keys in console
 // @author       fr0m
-// @updateURL    https://github.com/fr0m/HBTools/raw/master/hbMeta.js
+// @updateURL    https://github.com/fr0m/HBTools/raw/master/getHBKeys.meta.js
 // @downloadURL  https://github.com/fr0m/HBTools/raw/master/getHBKeys.js
 // @match        https://www.humblebundle.com/downloads*
 // @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
