@@ -9,6 +9,7 @@
 // @match        https://www.humblebundle.com/downloads*
 // @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
 // @grant        none
+// @run-at       document-end
 // ==/UserScript==
 
 (function() {
