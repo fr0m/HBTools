@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         getHBKeys
 // @namespace    https://github.com/fr0m/HBTools
-// @version      0.1
+// @version      0.2
 // @description  get Humble Bundle keys in console
 // @author       fr0m
 // @updateURL    https://github.com/fr0m/HBTools/raw/main/getHBKeys.meta.js
