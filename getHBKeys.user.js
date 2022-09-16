@@ -32,7 +32,7 @@
         });
       });
       
-      console.log(keys.map(({ name, key }) => `${name}: ${key}`).join('\n'));
+      console.log(keys.map(({ name, key }) => `${name}, ${key}`).join('\n'));
       return keys;
     }
     
